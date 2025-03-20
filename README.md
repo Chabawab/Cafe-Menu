@@ -1,2 +1,2 @@
-# Cafe-Manu
-Online Manu 
+# Cafe-Menu
+Online Menu 
